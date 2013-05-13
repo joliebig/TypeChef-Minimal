@@ -5,8 +5,8 @@ for TypeChef see: https://github.com/ckaestne/TypeChef
 
 use the following folder structure:
 * parent-folder
- - TypeChef
+ - TypeChef:
    - ...
- -TypeChef-Minimal
+ -TypeChef-Minimal:
    - run_doublefree.sh
    - ...
