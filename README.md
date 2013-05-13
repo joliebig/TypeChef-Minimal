@@ -7,6 +7,6 @@ use the following folder structure:
 * parent-folder
  - TypeChef:
    - ...
- -TypeChef-Minimal:
+ - TypeChef-Minimal:
    - run_doublefree.sh
    - ...
